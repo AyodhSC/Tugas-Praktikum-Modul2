@@ -1,0 +1,11 @@
+{
+  "name": "catatan-docker",
+  "version": "1.0.0",
+  "description": "Aplikasi catatan sederhana (Express + MySQL) untuk tugas containerization",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "express": "^4.21.0",
+    "mysql2": "^3.11.0"
+  }
+}
